@@ -27,7 +27,7 @@ body{
     align-items: center;
     justify-content: center;
     animation-name: planet-rotate;
-    animation-duration: 15s;
+    animation-duration: 18s;
     animation-iteration-count: infinite;
     animation-timing-function: linear;
 }
@@ -181,5 +181,6 @@ body{
     }
 
 }
+
 
 
